@@ -1,0 +1,21 @@
+{
+  "name": "app.js",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "latest",
+    "body-parser": "latest",
+    "ejs": "latest",
+    "express": "^4.16.3",
+    "http-build-query": "^0.6.0",
+    "request": "^2.85.0"
+      
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
